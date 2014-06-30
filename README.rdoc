@@ -1,5 +1,8 @@
 == README
 
+This is the first application for the tutorial by Michael Hartl that I am following.
+Cool things to follow.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
